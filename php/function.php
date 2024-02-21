@@ -140,3 +140,5 @@ my_frinds("joo");
 echo "<br>";
 my_frinds("monir");
 echo "<br>";
+*/
+echo 'خلاص ماشي';
